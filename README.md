@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ChanTinPing
-- 👀 I’m interested in Physics and C++ 
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m @ChanTinPing, from Malaysia, a SJTU student
+- 👀 I’m interested in LLM, math, and science
 - 📫 How to reach me: chantp@sjtu.edu.cn
 
 <!---
